@@ -14,3 +14,5 @@ with open('resultados/grafica.png', 'w') as f:
     
 with open('resultados/diagrama.eps', 'w') as f:
     f.write('Archivo de vector generado')
+
+print("Hello world")
